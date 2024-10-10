@@ -31,4 +31,4 @@ This project is almost complete, with only the My Works section remaining to be 
 
 ## Deployment
 
-It can be accessed [here](https://pau-lyn.github.io/portfolio/).
+It can be accessed [here](https://paula-lyn.github.io/portfolio/).
